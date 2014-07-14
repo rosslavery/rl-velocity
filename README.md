@@ -1,3 +1,5 @@
+### NOTE: This repository has migrated to: https://github.com/rosslavery/velocity-ui-angular . The bower package has migrated to velocity-ui-angular . 
+
 rl-velocity
 ===========
 
